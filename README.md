@@ -18,7 +18,7 @@ I am an international student <img src="https://media.giphy.com/media/WUlplcMpOC
 - 🔭 I've worked as a full stack Software Engineer and have contributed to frontend and backend for building web applications during my 2 years of professional work.
 - 🌱 Exploring ML and Cyber Security.
 - ⚡ In my free time I play games and chill.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-anol-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anol-kurian)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Anol-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anol-kurian)
 
 ---
 
@@ -46,8 +46,8 @@ I am an international student <img src="https://media.giphy.com/media/WUlplcMpOC
 ---
 
 ### 🔥 &nbsp; My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anolkurian&theme=dark&background=000000)
+http://github-readme-streak-stats.herokuapp.com?user=anolkurian&theme=dark&background=000000
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anolkurian&layout=compact&theme=vision-friendly-dark)
+https://github-readme-stats.vercel.app/api/top-langs/?username=anolkurian&layout=compact&theme=vision-friendly-dark
 
 ---
