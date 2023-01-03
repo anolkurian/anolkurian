@@ -16,7 +16,7 @@ I am an international student <img src="https://media.giphy.com/media/WUlplcMpOC
 - 🔭 I've worked as a full stack Software Engineer and have contributed to frontend and backend for building web applications during my 2 years of professional work.
 - 🌱 In my free time I play games and chill.
 - ⚡ Exploring ML and Cyber Security.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Anol Kurian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anol-kurian) | anolkurian@gmail.com | anolkuri.vadakke@ufl.edu
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-AnolKurian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anol-kurian) | anolkurian@gmail.com | anolkuri.vadakke@ufl.edu
 
 ---
 
