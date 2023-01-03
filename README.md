@@ -7,7 +7,7 @@
 <a href="https://www.buymeacoffee.com/anol" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### :woman_technologist: &nbsp;About Me :
 
@@ -16,7 +16,7 @@ I am an international student <img src="https://media.giphy.com/media/WUlplcMpOC
 - 🔭 I've worked as a full stack Software Engineer and have contributed to frontend and backend for building web applications during my 2 years of professional work.
 - 🌱 In my free time I play games and chill.
 - ⚡ Exploring ML and Cyber Security.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Anol-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anol-kurian) | anolkurian@gmail.com | anolkuri.vadakke@ufl.edu
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Anol Kurian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anol-kurian) | anolkurian@gmail.com | anolkuri.vadakke@ufl.edu
 
 ---
 
