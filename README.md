@@ -11,7 +11,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am an international student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing my Masters in Computer Science from the University of Florida. I have completed my bachelors in Computer Engineering from the University of Mumbai and have close to 2 years of work experience.
+I am an international student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing my Masters in Computer Science from the University of Florida. I have completed my bachelors in Computer Engineering from the University of Mumbai and have close to 2 years of work experience. Find more about me at https://anolkurian.github.io/
 
 - 🔭 I've worked as a full stack Software Engineer and have contributed to frontend and backend for building web applications during my 2 years of professional work.
 - 🌱 In my free time I play games and chill.
