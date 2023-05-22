@@ -9,7 +9,7 @@
 
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### :woman_technologist: &nbsp;About Me :
+### 👨‍💻: &nbsp;About Me :
 
 I am an international student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> pursuing my Masters in Computer Science from the University of Florida. I have completed my bachelors in Computer Engineering from the University of Mumbai and have close to 2 years of work experience. Find more about me at https://anolkurian.github.io/
 
