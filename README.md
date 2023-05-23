@@ -47,6 +47,6 @@ I am an international student <img src="https://media.giphy.com/media/WUlplcMpOC
 ### 🔥 &nbsp; My Stats :
 [![Stats](http://github-readme-streak-stats.herokuapp.com?user=anolkurian&theme=dark&background=000000)](https://github.com/anolkurian?tab=repositories)
 
-[![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=anolkurian&layout=compact&theme=vision-friendly-dark)](https://github.com/anolkurian?tab=repositories)
+<!-- [![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=anolkurian&layout=compact&theme=vision-friendly-dark)](https://github.com/anolkurian?tab=repositories) -->
 
 ---
